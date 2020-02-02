@@ -1,0 +1,27 @@
+.hepper{
+    text-align: center;
+    background-color: cyan;
+}
+div{
+    border: 1px solid black;
+  }
+  .wrapper {
+      text-align: center;
+      display: grid;
+      grid-template-columns: 33% 33% 33%
+  }
+.shrift{
+    font-weight: 700;
+}
+ .color{
+background-color: aquamarine;
+}
+.color1{
+    background-color: darksalmon;
+}
+.color2{
+     background-color: chartreuse; 
+}
+p{
+    text-align: left;
+}

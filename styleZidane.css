@@ -1,0 +1,15 @@
+div{
+    border: 1px solid gainsboro
+  }
+  .wrappe {
+      text-align: center;
+      display: grid;
+      grid-template-columns: 50% 50%;
+       
+  }
+  .left{
+      text-align: left;
+  }
+   
+ 
+  
